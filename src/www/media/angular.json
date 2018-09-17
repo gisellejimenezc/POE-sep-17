@@ -3,7 +3,11 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< HEAD
     "media": {
+=======
+    "toh": {
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -13,7 +17,11 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+<<<<<<< HEAD
             "outputPath": "dist/media",
+=======
+            "outputPath": "dist/toh",
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -50,18 +58,30 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
+<<<<<<< HEAD
             "browserTarget": "media:build"
           },
           "configurations": {
             "production": {
               "browserTarget": "media:build:production"
+=======
+            "browserTarget": "toh:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "toh:build:production"
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
+<<<<<<< HEAD
             "browserTarget": "media:build"
+=======
+            "browserTarget": "toh:build"
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
           }
         },
         "test": {
@@ -95,7 +115,11 @@
         }
       }
     },
+<<<<<<< HEAD
     "media-e2e": {
+=======
+    "toh-e2e": {
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
       "root": "e2e/",
       "projectType": "application",
       "architect": {
@@ -103,11 +127,19 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
+<<<<<<< HEAD
             "devServerTarget": "media:serve"
           },
           "configurations": {
             "production": {
               "devServerTarget": "media:serve:production"
+=======
+            "devServerTarget": "toh:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "toh:serve:production"
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             }
           }
         },
@@ -123,5 +155,9 @@
       }
     }
   },
+<<<<<<< HEAD
   "defaultProject": "media"
+=======
+  "defaultProject": "toh"
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
 }

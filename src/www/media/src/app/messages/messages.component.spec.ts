@@ -19,7 +19,11 @@ describe('MessagesComponent', () => {
     fixture.detectChanges();
   });
 
+<<<<<<< HEAD
   it('should create', () => {
+=======
+  it('should be created', () => {
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     expect(component).toBeTruthy();
   });
 });

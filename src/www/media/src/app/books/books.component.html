@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2>My liste of Books</h2>
 
 <div>
@@ -6,11 +7,25 @@
   </label>
   <!-- (click) passes input value to add() and then clears the input -->
   <button (click)="add(bookTitle.value); bookTitle.value=''">
+=======
+<h2>My Books</h2>
+
+<div>
+  <label>Book title:
+    <input #bookName />
+  </label>
+  <!-- (click) passes input value to add() and then clears the input -->
+  <button (click)="add(bookName.value); bookName.value=''">
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     add
   </button>
 </div>
 
+<<<<<<< HEAD
 <ul class="books">
+=======
+<ul class="heroes">
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
   <li *ngFor="let book of books">
     <a routerLink="/detail/{{book.id}}">
       <span class="badge">{{book.id}}</span> {{book.title}}

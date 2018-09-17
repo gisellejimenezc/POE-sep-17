@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Media
+=======
+# Toh
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 

@@ -1,5 +1,9 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+<<<<<<< HEAD
+=======
+
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
@@ -8,6 +12,7 @@ describe('AppComponent', () => {
       ],
     }).compileComponents();
   }));
+<<<<<<< HEAD
   it('should create the app', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
@@ -24,4 +29,6 @@ describe('AppComponent', () => {
     const compiled = fixture.debugElement.nativeElement;
     expect(compiled.querySelector('h1').textContent).toContain('Welcome to media!');
   }));
+=======
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
 });

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4c15b6a7-a087-44ae-ac43-c0f9af3d4918" name="Default" comment="POE Copie de Cyril">
       <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/facegram/node_modules/.staging/@angular-devkit/build-angular-10e4fdc6/LICENSE" afterDir="false" />
@@ -1557,6 +1558,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/Detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/Detail.html" afterDir="false" />
+=======
+    <list default="true" id="4c15b6a7-a087-44ae-ac43-c0f9af3d4918" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/www/media/src/app/book.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/media/src/app/book.service.ts" afterDir="false" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1569,11 +1574,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="user.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/user.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+=======
+      <file leaf-file-name="HelloWorldRest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/HelloWorldRest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             </state>
           </provider>
         </entry>
@@ -1587,15 +1600,24 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="listoffriends.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/listoffriends.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+=======
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="userinfo.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/userinfo/userinfo.component.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -1608,15 +1630,39 @@
                 <element signature="n#style#0;n#label#0;n#h3#3;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#label#0;n#h3#3;n#!!top" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="hero.service.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/hero.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
+=======
+      <file leaf-file-name="GeneticRest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/GeneticRest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1675">
+              <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             </state>
           </provider>
         </entry>
@@ -1651,6 +1697,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/www/media/src/app/dashboard/dashboard.component.css" />
         <option value="$PROJECT_DIR$/src/www/media/src/app/book-search/book-search.component.css" />
         <option value="$PROJECT_DIR$/src/www/media/src/app/book-search/book-search.component.ts" />
@@ -1702,6 +1749,59 @@
         <option value="$PROJECT_DIR$/src/www/facegram/src/app/userinfo/userinfo.component.html" />
         <option value="$PROJECT_DIR$/src/www/facegram/src/app/listoffriends.ts" />
         <option value="$PROJECT_DIR$/src/www/facegram/src/app/userinfo/userinfo.component.ts" />
+=======
+        <option value="$PROJECT_DIR$/src/com/m2i/poe/genetic/RNA.java" />
+        <option value="$PROJECT_DIR$/src/com/m2i/poe/genetic/genetic.plantuml" />
+        <option value="$PROJECT_DIR$/src/main/java/JDBCSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/MediaMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/BookSqlRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/index.html" />
+        <option value="$PROJECT_DIR$/src/www/hello.html" />
+        <option value="$PROJECT_DIR$/src/www/essai.html" />
+        <option value="$PROJECT_DIR$/src/www/cv.css" />
+        <option value="$PROJECT_DIR$/src/www/bootstrap.html" />
+        <option value="$PROJECT_DIR$/src/www/css/resume.css" />
+        <option value="$PROJECT_DIR$/src/www/js/resume.js" />
+        <option value="$PROJECT_DIR$/src/www/cv.html" />
+        <option value="$PROJECT_DIR$/src/www/index.html" />
+        <option value="$PROJECT_DIR$/src/www/js.hml.html" />
+        <option value="$PROJECT_DIR$/src/www/js.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/JaxRsActivator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JerseyResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/HelloWorldRest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/Media.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/EntityManagerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/media/EntityManagerFactorySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/JPAMain.java" />
+        <option value="$PROJECT_DIR$/src/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/www/toh/dist/toh/index.html" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/index.html" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/setup.txt" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/hero.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/hello.ts.ts2" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.spec.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/app.component.spec.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/ts/hello.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/ts/hello.js" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/karma.conf.js" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/test.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/ts/unittests.spec.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/mock-heroes.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.css" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/hero-detail/hero-detail.component.ts" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/hero-detail/hero-detail.component.html" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.html" />
+        <option value="$PROJECT_DIR$/src/www/toh/src/app/hero.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/GeneticRest.java" />
+        <option value="$PROJECT_DIR$/src/www/WEB-INF/web.xml" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
       </list>
     </option>
   </component>
@@ -1732,19 +1832,108 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="POE" type="b2602c69:ProjectViewProjectNode" />
               <item name="POE" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="poe" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="toh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="toh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="toh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1754,7 +1943,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -1763,6 +1956,7 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+<<<<<<< HEAD
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Formation\IdeaProjects\POE\src\www\facegram\src\app" />
       <recent name="C:\Users\Formation\IdeaProjects\POE\src\www\facegram" />
@@ -1776,6 +1970,21 @@
       <recent name="D:\CVC\M2I\POE\Java\ppt\js" />
       <recent name="D:\CVC\M2I\POE\Java\src\www\vendor" />
       <recent name="D:\CVC\M2I\POE\Java\src\www" />
+=======
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CVC\M2I\POE\Java\ppt\angular" />
+      <recent name="D:\CVC\M2I\POE\Java\src\www\toh\src\ts" />
+      <recent name="D:\CVC\M2I\POE\Java\ppt\angular\6" />
+      <recent name="D:\CVC\M2I\POE\Java\src\www\toh\src" />
+      <recent name="D:\CVC\M2I\POE\Java\ppt\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CVC\M2I\POE\Java\ppt\angular" />
+      <recent name="D:\CVC\M2I\POE\Java\src\www\toh\src\ts" />
+      <recent name="D:\CVC\M2I\POE\Java\src\www\toh\src\app" />
+      <recent name="D:\CVC\M2I\POE\Java\src\main\resources" />
+      <recent name="D:\CVC\M2I\POE\Java\src\main\java" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     </key>
   </component>
   <component name="RunDashboard">
@@ -1931,6 +2140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1529926128295</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="TP1">
       <created>1529930831826</created>
       <option name="number" value="00004" />
@@ -2036,6 +2246,8 @@
       <option name="project" value="LOCAL" />
       <updated>1530276622715</updated>
     </task>
+=======
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     <task id="LOCAL-00019" summary="IMedia">
       <created>1530524176808</created>
       <option name="number" value="00019" />
@@ -2260,6 +2472,7 @@
       <option name="project" value="LOCAL" />
       <updated>1535380387307</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00051" summary="POE Copie de Cyril">
       <created>1535641073931</created>
       <option name="number" value="00051" />
@@ -2308,6 +2521,138 @@
     <history-entry file="MediaTests_cartIsValid - 2018.08.30 at 11h 59m 12s.xml">
       <configuration name="MediaTests.cartIsValid" configurationId="JUnit" />
     </history-entry>
+=======
+    <task id="LOCAL-00051" summary="Angular PPT">
+      <created>1535960773192</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1535960773192</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Angular PPT bis">
+      <created>1535961785400</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1535961785400</updated>
+    </task>
+    <task id="LOCAL-00053" summary="TOH">
+      <created>1535975666525</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1535975666525</updated>
+    </task>
+    <task id="LOCAL-00054" summary="TOH add">
+      <created>1535975898963</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1535975898963</updated>
+    </task>
+    <task id="LOCAL-00055" summary="TOH Heroes">
+      <created>1535978935416</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1535978935416</updated>
+    </task>
+    <task id="LOCAL-00056" summary="ngApp">
+      <created>1535984740533</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1535984740533</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Angular6 PPTX">
+      <created>1535984800654</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1535984800654</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Heroes add">
+      <created>1535984860107</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1535984860107</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Angular PPT v2">
+      <created>1536045001693</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1536045001693</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Angular PPT 8">
+      <created>1536063964324</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1536063964324</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Angular PPT 11">
+      <created>1536065674910</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1536065674910</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Media.ts">
+      <created>1536072198939</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1536072198939</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Angular 13">
+      <created>1536140668929</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1536140668929</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Angular 13 Observable">
+      <created>1536149518015</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1536149518015</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Angular 14">
+      <created>1536154765560</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1536154765560</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Angular 15">
+      <created>1536158863308</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1536158863308</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Angular PPT 15 bis">
+      <created>1536226689332</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1536226689332</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -2315,6 +2660,7 @@
     <layout>
       <window_info anchor="right" id="PlantUML" order="8" weight="0.31771597" />
       <window_info anchor="right" id="Palette" order="3" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="2" />
@@ -2326,6 +2672,20 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
+=======
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49853587" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32755905" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2715959" side_tool="true" visible="true" weight="0.2992126" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.23792094" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7284041" visible="true" weight="0.2992126" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2693997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2384,6 +2744,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+<<<<<<< HEAD
     <MESSAGE value="IMesureRepository" />
     <MESSAGE value="MesureRepository ep1" />
     <MESSAGE value="MesureRepository" />
@@ -2400,6 +2761,8 @@
     <MESSAGE value="JDBC GetAll" />
     <MESSAGE value="BookSqlRepository" />
     <MESSAGE value="HTML.pptx" />
+=======
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     <MESSAGE value="HTML" />
     <MESSAGE value="CSS" />
     <MESSAGE value="Bootstrap" />
@@ -2408,8 +2771,29 @@
     <MESSAGE value="JAX-RS Web.xml change" />
     <MESSAGE value="Moxy" />
     <MESSAGE value="JPA Console" />
+<<<<<<< HEAD
     <MESSAGE value="POE Copie de Cyril" />
     <option name="LAST_COMMIT_MESSAGE" value="POE Copie de Cyril" />
+=======
+    <MESSAGE value="Angular PPT" />
+    <MESSAGE value="Angular PPT bis" />
+    <MESSAGE value="TOH" />
+    <MESSAGE value="TOH add" />
+    <MESSAGE value="TOH Heroes" />
+    <MESSAGE value="ngApp" />
+    <MESSAGE value="Angular6 PPTX" />
+    <MESSAGE value="Heroes add" />
+    <MESSAGE value="Angular PPT v2" />
+    <MESSAGE value="Angular PPT 8" />
+    <MESSAGE value="Angular PPT 11" />
+    <MESSAGE value="Media.ts" />
+    <MESSAGE value="Angular 13" />
+    <MESSAGE value="Angular 13 Observable" />
+    <MESSAGE value="Angular 14" />
+    <MESSAGE value="Angular 15" />
+    <MESSAGE value="Angular PPT 15 bis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular PPT 15 bis" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2474,6 +2858,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/www/media/src/app/dashboard/dashboard.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -2704,12 +3089,269 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/user.ts">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/media/EntityManagerFactorySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JPAMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/media/BookJPARepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1115">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/genetic/Nucleotide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/genetic/GeneticTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/angular.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/tsconfig.app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/dist/toh/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/dist/toh/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/dist/toh/runtime.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/dist/toh/vendor.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/dist/toh/styles.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/dist/toh/polyfills.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/setup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/hello.ts.ts2" />
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/ts/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/tsconfig.spec.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="62" selection-start-line="17" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/ts/unittests.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/ts/hello.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/ts/bankaccount.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/mock-heroes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="877">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/hero-detail/hero-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/hero-detail/hero-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/ts/react.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/ts/media.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/heroes/heroes.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/message.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/in-memory-data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/cv.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/Main.java">
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/userinfo/userinfo.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -2728,13 +3370,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/HelloWorldRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/m2i/poe/rest/GeneticRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/facegram/src/app/listoffriends.ts">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+=======
+        <state relative-caret-position="286">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/toh/src/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
         </state>
       </provider>
     </entry>

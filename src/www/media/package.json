@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "media",
+=======
+  "name": "toh",
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -33,7 +37,11 @@
     "@angular/language-service": "^6.1.0",
     "@types/jasmine": "~2.8.6",
     "@types/jasminewd2": "~2.0.3",
+<<<<<<< HEAD
     "@types/node": "^8.9.5",
+=======
+    "@types/node": "~8.9.4",
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     "codelyzer": "~4.2.1",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
@@ -43,8 +51,14 @@
     "karma-jasmine": "~1.1.1",
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "~5.4.0",
+<<<<<<< HEAD
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
     "typescript": "~2.7.2"
+=======
+    "ts-node": "^5.0.1",
+    "tslint": "~5.9.1",
+    "typescript": "^2.7.2"
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
   }
 }

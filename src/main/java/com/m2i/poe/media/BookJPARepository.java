@@ -2,16 +2,25 @@ package com.m2i.poe.media;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
+<<<<<<< HEAD
 import javax.ws.rs.core.Response;
+=======
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.List;
 
+<<<<<<< HEAD
 //@Path("/bookrepo")// JE SAIS PAS SI C'EST NECESSAIRE
 public class BookJPARepository implements IBookRepository {
 
     private static EntityManager em = EntityManagerFactorySingleton.getEntityManager();
 
+=======
+public class BookJPARepository implements IBookRepository {
+
+    private EntityManager em = EntityManagerFactorySingleton.getEntityManager();
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
 
     @Override
     public void load(String uri) throws IOException, ClassNotFoundException, SQLException {
@@ -39,6 +48,7 @@ public class BookJPARepository implements IBookRepository {
 
     @Override
     public List<Book> getByPublisher(String publisherName) throws SQLException {
+<<<<<<< HEAD
         return em.createQuery("select b from Book b where p.publisher ==" + Integer.parseInt(publisherName)).getResultList();
     }
 
@@ -65,6 +75,11 @@ public class BookJPARepository implements IBookRepository {
         return Response.ok().build();
     }*/
 
+=======
+        return null;
+    }
+
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     @Override
     public void add(Book b) throws SQLException {
         EntityTransaction t = em.getTransaction();
@@ -73,6 +88,7 @@ public class BookJPARepository implements IBookRepository {
         t.commit();
     }
 
+<<<<<<< HEAD
     //Remove by Baptiste, using the method DELETE of HelloWorldRest
     //@Override
     public void remove(int id) throws SQLException {
@@ -83,6 +99,8 @@ public class BookJPARepository implements IBookRepository {
         t.commit();
     }
 
+=======
+>>>>>>> 76bd32226bfd0f1ea432c541a36fbe0afc844fd8
     @Override
     public void remove(Book b) throws SQLException {
         EntityTransaction t = em.getTransaction();
